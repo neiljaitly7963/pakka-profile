@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pakka-profile/static/css/main.0abc507e.chunk.css",
+    "main.js": "/pakka-profile/static/js/main.64510c6f.chunk.js",
+    "main.js.map": "/pakka-profile/static/js/main.64510c6f.chunk.js.map",
+    "runtime-main.js": "/pakka-profile/static/js/runtime-main.a5cdbbfa.js",
+    "runtime-main.js.map": "/pakka-profile/static/js/runtime-main.a5cdbbfa.js.map",
+    "static/js/2.34516717.chunk.js": "/pakka-profile/static/js/2.34516717.chunk.js",
+    "static/js/2.34516717.chunk.js.map": "/pakka-profile/static/js/2.34516717.chunk.js.map",
+    "index.html": "/pakka-profile/index.html",
+    "precache-manifest.69e76c34d6740ddc8994a78b8744e6fb.js": "/pakka-profile/precache-manifest.69e76c34d6740ddc8994a78b8744e6fb.js",
+    "service-worker.js": "/pakka-profile/service-worker.js",
+    "static/css/main.0abc507e.chunk.css.map": "/pakka-profile/static/css/main.0abc507e.chunk.css.map",
+    "static/js/2.34516717.chunk.js.LICENSE.txt": "/pakka-profile/static/js/2.34516717.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/pakka-profile/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5cdbbfa.js",
+    "static/js/2.34516717.chunk.js",
+    "static/css/main.0abc507e.chunk.css",
+    "static/js/main.64510c6f.chunk.js"
+  ]
+}
