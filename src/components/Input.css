@@ -1,0 +1,13 @@
+.Input{
+	width: 200px;
+	display: flex;
+	flex-direction: row;
+	flex-grow: 0.2;
+	justify-content:center;
+	align-items: center;
+	justify-content: space-between
+}
+
+.word{
+	font-size: 1px
+}
